@@ -1,0 +1,11 @@
+edu\rutmiit\demo\booksapicontract\dto\StatusResponse.class
+edu\rutmiit\demo\booksapicontract\endpoints\AuthorApi.class
+edu\rutmiit\demo\booksapicontract\dto\BookRequest.class
+edu\rutmiit\demo\booksapicontract\dto\UpdateBookRequest.class
+edu\rutmiit\demo\booksapicontract\dto\AuthorRequest.class
+edu\rutmiit\demo\booksapicontract\dto\AuthorResponse.class
+edu\rutmiit\demo\booksapicontract\dto\BookResponse.class
+edu\rutmiit\demo\booksapicontract\dto\PagedResponse.class
+edu\rutmiit\demo\booksapicontract\exception\ResourceNotFoundException.class
+edu\rutmiit\demo\booksapicontract\endpoints\BookApi.class
+edu\rutmiit\demo\booksapicontract\exception\IsbnAlreadyExistsException.class

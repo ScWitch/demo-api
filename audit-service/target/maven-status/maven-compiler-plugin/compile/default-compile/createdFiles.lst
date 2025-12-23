@@ -1,0 +1,3 @@
+edu\rutmiit\demo\audit_service\AuditServiceApplication.class
+edu\rutmiit\demo\audit_service\listeners\BookEventListener.class
+edu\rutmiit\demo\audit_service\listeners\RabbitMQConfig.class

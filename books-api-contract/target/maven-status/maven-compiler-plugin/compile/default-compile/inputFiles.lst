@@ -1,0 +1,11 @@
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\AuthorRequest.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\AuthorResponse.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\BookRequest.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\BookResponse.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\PagedResponse.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\StatusResponse.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\dto\UpdateBookRequest.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\endpoints\AuthorApi.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\endpoints\BookApi.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\exception\IsbnAlreadyExistsException.java
+C:\Users\Muhta\Downloads\demo-rest\books-api-contract\src\main\java\edu\rutmiit\demo\booksapicontract\exception\ResourceNotFoundException.java
