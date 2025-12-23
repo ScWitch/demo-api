@@ -1,0 +1,12 @@
+# Dockerfile.jenkins
+FROM jenkins/jenkins:lts-jdk21
+
+# Устанавливаем Maven и Git
+USER root
+RUN apt update && \
+    apt install -y maven git && \
+    apt clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# Возвращаем пользователя jenkins
+USER jenkins
